@@ -36,7 +36,7 @@ void Stack::push(char element) {
 	else stack[++top] = element;
 }
 void Stack::print() {
-	for (int i = 0; i <= top; i++) {
+	for (int i = 0; i < top; i++) {
 		cout << stack[i] << endl;
 	}
 }
