@@ -1,19 +1,24 @@
 ﻿#include <iostream>
-#include "Stack.h"
+#include "Queue.h"
 using namespace std;
 int main()
 {
-	Stack stack(5);
-	stack.push('a');
-	stack.push('b');
-	stack.push('a');
-	stack.push('b');
-	stack.push('a');
-	stack.push('b');
-	stack.print();
-	stack.pop();
-	stack.pop();
-	stack.print();
+	Queue queue(5);
+	queue.push('a');
+	queue.push('b');
+	queue.push('c');
+	queue.print();
+	queue.pop();
+	queue.pop();
+	queue.push('d');
+	queue.push('e');
+	queue.peek();
+	queue.pop();
+	queue.pop();
+	queue.pop();
+	queue.pop();
+
+
 
 	return 0;
 }
