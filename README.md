@@ -9,7 +9,7 @@ DataStructure.cpp of "Stack" commit version has included "Stack.h" and used "Sta
   - ~Stack~
 - Queue
   - ~Linear Queue~
-  - Circular Queue
+  - ~Circular Queue~
   - Deque
 - Linked List
   - Singly Linked List
