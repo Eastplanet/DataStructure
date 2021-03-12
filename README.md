@@ -31,7 +31,7 @@ DataStructure.cpp of "Stack" commit version has included "Stack.h" and used "Sta
     - Prim MST
   - Shortest Path
     - Dijkstra SP
-    - Floyd SP
+    - ~Floyd SP~
   - Topology Sort
 - Sorting
   - Selection Sor
