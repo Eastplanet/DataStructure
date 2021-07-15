@@ -34,7 +34,7 @@ DataStructure.cpp of "Stack" commit version has included "Stack.h" and used "Sta
     - ~Floyd SP~
   - Topology Sort
 - Sorting
-  - Selection Sor
+  - Selection Sort
   - Insertion Sort
   - Bubble Sort
   - Shell Sort
